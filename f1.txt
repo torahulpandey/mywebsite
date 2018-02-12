@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello india rahul
 pandey
+=======
+hello india rahul pandey
+new changes
+>>>>>>> ad1f9870117029976e5cb61366e4dc5be0375f61
