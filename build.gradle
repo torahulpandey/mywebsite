@@ -1,4 +1,4 @@
-defaultTasks 'hello'
+
 task hello {
    doLast {
       println "hello rahul"
